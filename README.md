@@ -19,13 +19,11 @@ A simple Social Network API using A simple social network API built using FastAP
 <br>
 
 ### 📦 Modules used 
-<br/>
 
 * FastAPI for REST APIs 
 * Sqlalchemy for database ORM
 * Passlib for encryption
 * Python-jose for JWT token
-<br/>
 
 ### ⚡️ Features 
 * User Login
@@ -33,8 +31,6 @@ A simple Social Network API using A simple social network API built using FastAP
 * Hashed Password storage
 * JWT Token based authentication
 * CRUD Operations on Posts
-
-<!-- ### 📄 ChangeLog  -->
 
 ### 🙌 Bug reports, Feature requests, ETC
 
