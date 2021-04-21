@@ -1,0 +1,7 @@
+fastapi 
+hypercorn 
+sqlalchemy
+passlib
+bcrypt
+python-jose
+python-multipart
