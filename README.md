@@ -23,8 +23,8 @@ A simple Social Network API using A simple social network API built using FastAP
 
 * FastAPI for REST APIs 
 * Sqlalchemy for database ORM
-* Passlib for encry
-* Python-jose
+* Passlib for encryption
+* Python-jose for JWT token
 <br/>
 
 ### ⚡️ Features 
